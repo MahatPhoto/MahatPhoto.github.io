@@ -5,7 +5,7 @@ p h o t o r a m a
 
 ----------
 
----> [DEMO](https://mahathasan.com/ "DEMO")  <---
+---> [DEMO](https://sunbliss.github.io/photorama/ "DEMO")  <---
 
 ----------
 
@@ -94,13 +94,13 @@ Usage
 
 ###Quick Start
 
-1. [Fork this repository](https://github.com/MahatPhoto/MahatPhoto.github.io/fork) to get started. 
-2. Go to `https://github.com/MahatPhoto/MahatPhoto.github.io/settings`
+1. [Fork this repository](https://github.com/sunbliss/photorama/fork) to get started. 
+2. Go to `https://github.com/yourusername/photorama/settings`
 3. Rename the repository to your new project, e.g. *myphotoblog*
 2. Create a new branch called `gh-pages` in your repository. 
-3. Go to the branches directory at `https://github.com/MahatPhoto/MahatPhoto.github.io/branches` and *change* **default branch** to **gh-pages**.
+3. Go to the branches directory at `https://github.com/yourusername/repositoryname/branches` and *change* **default branch** to **gh-pages**.
 4. Delete **master** branch. 
-3. GitHub will build your site automatically and publish it at `https://MahatPhoto.github.io`.  
+3. GitHub will build your site automatically and publish it at `https://yourusername.github.io/repositoryname/`.  
 
 ----------
 
@@ -142,7 +142,7 @@ All the credits and the helpers can be found at **ABOUT** page.
 
 ----------
 
-Read <a href="https://mahathasan.com/journal/images-size-for-better-performance/">**this**</a> post if you want to ensure your website always loads fast.
+Read <a href="https://sunbliss.github.io/photorama/journal/images-size-for-better-performance/">**this**</a> post if you want to ensure your website always loads fast.
 
 
 ----------

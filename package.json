@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MahatPhoto/MahatPhoto.github.io.git"
+    "url": "https://github.com/sunbliss/photorama.git"
   },
-  "author": "Mahat Hasan",
+  "author": "Anna Prigkipaki",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/MahatPhoto/MahatPhoto.github.io/issues"
+    "url": "https://github.com/sunbliss/photorama/issues"
   },
-  "homepage": "https://MahatPhoto.github.io",
+  "homepage": "http://sunbliss.github.io",
   "dependencies": {
     "searchkit": "^0.7.0"
   }
