@@ -31,7 +31,7 @@ comments:
 # Internal nav
 nav:
   - GALLERY: "https://MahatPhoto.github.io/gallery/"  
-  - JOURNAL: "https://MahatPhoto.github.io/journal/"
+#  - JOURNAL: "https://MahatPhoto.github.io/journal/"
   - ABOUT: "https://MahatPhoto.github.io/about/"
 
 # All translation keys
